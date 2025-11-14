@@ -1,13 +1,13 @@
 # CODSOFT
-CODSOFT Data Science Internship (Task 1–4)
+**CODSOFT Data Science Internship (Task 1–4)**
 This repository showcases my work for the CODSOFT Data Science Internship.
 It includes:
 
-Exploratory Data Analysis
+  1.Exploratory Data Analysis
 
-Data Visualization
+  2.Data Visualization
 
-Machine Learning Models
+  3.Machine Learning Models
 
-Python-based implementation
-Each task is organized into separate folders with scripts, datasets, and results.
+  4.Python-based implementation
+  Each task is organized into separate folders with scripts, datasets, and results.
