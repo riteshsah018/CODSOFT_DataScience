@@ -51,14 +51,3 @@ a sign of **unbiased predictions** and a **robust regression model**.
 
 ---
 
-## 📦 Deliverables
-
-- **Task4.py** → Full machine learning workflow (EDA, model training, evaluation).  
-- **advertising.csv** → Dataset used for analysis and model building.  
-- **4 Visualization Files** →  
-  - Correlation Matrix  
-  - Scatter Plots  
-  - Actual vs Predicted Plot  
-  - Residuals Distribution Plot  
-
----
